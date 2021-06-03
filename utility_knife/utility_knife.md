@@ -4,7 +4,7 @@ During my first year of college, I started to work on a project to make my very 
 ## Sketching
 I started by doing some quick sketches. I had a rough idea of what I wanted when I started this project, but I wanted to have something concrete and organized to make it easier to CAD. **Requirements Here**
 
-![](utility_knife_photos/IMG_6670.jpg)
+![](utility_knife/utility_knife_photos/IMG_6670.jpg)
 <figcaption align = "center"><b>Utility Knife Concept Idea</b></figcaption>
 
 ![](utility_knife_photos/IMG_6672.jpg)
