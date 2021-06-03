@@ -4,13 +4,13 @@ During my first year of college, I started to work on a project to make my very 
 ## Sketching
 I started by doing some quick sketches. I had a rough idea of what I wanted when I started this project, but I wanted to have something concrete and organized to make it easier to CAD. **Requirements Here**
 
-![](utility_knife_photos/IMG_6670)
+![](utility_knife_photos/IMG_6670.jpg)
 <figcaption align = "center"><b>Utility Knife Concept Idea</b></figcaption>
 
-![](utility_knife_photos/IMG_6672)
+![](utility_knife_photos/IMG_6672.jpg)
 <figcaption align = "center"><b>Utility Blade Dimensions</b></figcaption>
 
-![](utility_knife_photos/IMG_6673)
+![](utility_knife_photos/IMG_6673.jpg)
 <figcaption align = "center"><b>Utility Knife Rough Dimensions</b></figcaption>
 
 ## CADing
@@ -23,22 +23,22 @@ I started by doing some quick sketches. I had a rough idea of what I wanted when
 
 ## Finished Product
 
-![](utility_knife_photos/IMG_4585)
+![](utility_knife_photos/IMG_4585.jpg)
 <figcaption align = "center"><b></b></figcaption>
 
-![](utility_knife_photos/IMG_4582)
+![](utility_knife_photos/IMG_4582.jpg)
 <figcaption align = "center"><b></b></figcaption>
 
-![](utility_knife_photos/IMG_4581)
+![](utility_knife_photos/IMG_4581.jpg)
 <figcaption align = "center"><b></b></figcaption>
 
-![](utility_knife_photos/IMG_4583)
+![](utility_knife_photos/IMG_4583.jpg)
 <figcaption align = "center"><b></b></figcaption>
 
-![](utility_knife_photos/IMG_4586)
+![](utility_knife_photos/IMG_4586.jpg)
 <figcaption align = "center"><b></b></figcaption>
 
-![](utility_knife_photos/IMG_4587)
+![](utility_knife_photos/IMG_4587.jpg)
 <figcaption align = "center"><b></b></figcaption>
 
 ## Final Remarks
