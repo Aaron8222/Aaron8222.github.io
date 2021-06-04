@@ -1,3 +1,11 @@
+---
+title: Aaron's Portfolio
+date: "2021-03-21"
+language: English
+description: Aaron Huang's collection of projects.
+creator: Aaron Huang
+---
+
 # Welcome
 
 Hi! My name is Aaron Huang and I am sophomore at Franklin W. Olin College of
