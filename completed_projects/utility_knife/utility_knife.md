@@ -1,3 +1,11 @@
+---
+title: Aaron's Portfolio
+date: "2021-03-21"
+language: English
+description: Aaron Huang's collection of projects.
+creator: Aaron Huang
+---
+
 # 3D Printed Utility Knife
 During my first year of college, I started to work on a project to make my very own utility knife. There were two reasons for doing this 1) I wanted to learn how to using Solidworks to create complex multi piece designs and 2) Every mechanical engineer needs a utility knife!
 
