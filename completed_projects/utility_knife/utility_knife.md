@@ -58,6 +58,7 @@ The print took about 2 hrs and 30 mins with a infill of 15%. All of this was sli
 <center><img src="utility_knife_photos/prusa.jpg" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>PrusaSlicer</b></figcaption>
 
+
 ## Finished Product
 
 <center><img src="utility_knife_photos/IMG_4585.jpg" alt="drawing" width="500"/></center>
