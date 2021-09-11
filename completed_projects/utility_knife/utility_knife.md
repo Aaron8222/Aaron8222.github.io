@@ -25,21 +25,38 @@ I started by doing some quick sketches. I had a rough idea of what I wanted when
 
 After getting some basic information, such as rough knife dimensions and blade dimensions, I began CADing the parts. I first created the large one piece body as can be seen below.
 
-**One Piece Body Here**
+<center><img src="utility_knife_photos/main_onepiece2.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Main One Piece Body (Iso)</b></figcaption>
 
-After creating this part, I made two copies of this and split the one body into two pieces as can be seen below.
+<center><img src="utility_knife_photos/main_onepiece.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Main One Piece Body (Top View)</b></figcaption>
 
-**Two Piece Body Here**
+After creating this part, I made another copy of this and split it into two pieces as can be seen below.
+
+<center><img src="utility_knife_photos/main_2part_1.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Main Body (1/2)</b></figcaption>
+
+<center><img src="utility_knife_photos/main_2part_2.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Main Body (2/2)</b></figcaption>
 
 Once I have the main body, I made an assembly with the blade to build a cover around the blade. After that was done, I created pins and pinholes for them.
 
-**CAD progression here**
+<center><img src="utility_knife_photos/assem_open.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Final Assembly (Open)</b></figcaption>
+
+<center><img src="utility_knife_photos/assem_closed.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Final Assembly (Closed)</b></figcaption>
 
 ## 3D Printing
 
-
+For the print material, I chose ABS plastic because it is strong yet flexible. With the way I designed the cap insert, this allows for some degree of bending without breaking.
 
 ### Prusaslicer & Troubleshooting
+
+The print took about 2 hrs and 30 mins with a infill of 15%. All of this was sliced in PrusaSlicer. While printing, there were a couple of times the print lifted off the heatbed. This was solved by adding a brim (a layer of material around a part to increase adhesion to headbed) and increasing the heatbed temperature to reduce contraction of material.
+
+<center><img src="utility_knife_photos/prusa.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>PrusaSlicer</b></figcaption>
 
 ## Finished Product
 
@@ -62,3 +79,5 @@ Once I have the main body, I made an assembly with the blade to build a cover ar
 <figcaption align = "center"><b></b></figcaption>
 
 ## Final Remarks
+
+I enjoyed working on this project a lot. I have always wanted to make something that I can use and carry around with me. I am very happy with the end product. Next time, I might want to redesign it so that I could machine it out of metal instead. **Could have done differently, next steps, learning goals**
