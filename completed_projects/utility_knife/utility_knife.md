@@ -81,4 +81,4 @@ The print took about 2 hrs and 30 mins with a infill of 15%. All of this was sli
 
 ## Final Remarks
 
-I enjoyed working on this project a lot. I have always wanted to make something that I can use and carry around with me. I am very happy with the end product. Next time, I might want to redesign it so that I could machine it out of metal instead. **Could have done differently, next steps, learning goals**
+I enjoyed working on this project a lot. I have always wanted to make something that I can use and carry around with me! Next time, I might want to redesign it so that I could machine it out of metal instead. The reason this knife wasn't made out of metal is because of how hard it would be to machine the pins to the exact size so that they fit nicely without being too loose or tight. In this project, I was able use what I learned aobut SolidWorks and apply it.
