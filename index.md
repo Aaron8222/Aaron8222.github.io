@@ -14,7 +14,7 @@ all of my projects I have worked on as well as some I am currently working on!
 
 ## Current Projects
 
-### Large Test Stand
+### Engine Project
 
 ### Electric Scooter
 
