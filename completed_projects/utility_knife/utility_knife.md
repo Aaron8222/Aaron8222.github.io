@@ -2,7 +2,7 @@
 title: Utility Knife
 date: "2021-03-21"
 language: English
-description: Made a 3D printable utility knife.
+description: 3D printable utility knife
 creator: Aaron Huang
 ---
 
