@@ -2,7 +2,7 @@
 title: Light Switch
 date: "2021-10-1"
 language: English
-description: Light Switch
+description: Create a mechanical device that turns the lights on and off
 creator: Aaron Huang
 ---
 
@@ -11,6 +11,8 @@ In this project, I created a mechanical device that would flip the light switch 
 
 ## Sketching
 
+<center><img src="utility_knife_photos/IMG_6670.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Utility Knife Concept Idea</b></figcaption>
 
 ## CADing
 
@@ -18,7 +20,7 @@ In this project, I created a mechanical device that would flip the light switch 
 
 ## 3D Printing
 
-
+## Coding
 
 ## Finished Product
 
