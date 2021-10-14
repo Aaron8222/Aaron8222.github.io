@@ -29,26 +29,26 @@ Then I made the body to connect everything together. I started by creating the h
 [//]: # (Talk about using double AA batteries at first have pictures)`
 The battery mount had two main components to the battery holder. The first is a 3D printed housing for the battery springs and the other is the clips that hold the batteries in place. By combining multiple of these items, I created a battery holder that can fit three 18650 batteries.
 
-<center><img src="light_switch_photos/battery_mount.png" alt="drawing" width="500"/></center>
+<center><img src="light_switch_photos/battery_mount.PNG" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Battery Mount</b></figcaption>
 
 **Arduino Mount**
 The arduino monut was straightforward to cad. I began by extruding a box with the top open to store all the wires. Then I created a hole on the side to connect the servo and battery to the arduino. The transparant part in the picture below is a representation of an Arduino Nano. In the second photo, you can see three holes for wires that connect to the servo and battery terminals.
 
-<center><img src="light_switch_photos/arduino_mount2.png" alt="drawing" width="500"/></center>
+<center><img src="light_switch_photos/arduino_mount2.PNG" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Arduino Mount with Arduino Placement</b></figcaption>
 
-<center><img src="light_switch_photos/arduino_mount.png" alt="drawing" width="500"/></center>
+<center><img src="light_switch_photos/arduino_mount.PNG" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Arduino Mount Showing Holes</b></figcaption>
 
 **Servo Mount**
 I created the servo mount by creating two identical towers in which screws can be attached to.
 
-<center><img src="light_switch_photos/servo_mount.png" alt="drawing" width="500"/></center>
+<center><img src="light_switch_photos/servo_mount.PNG" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Servo Mount</b></figcaption>
 
 **Lever Arm**
-<center><img src="light_switch_photos/final_render.jpg" alt="drawing" width="500"/></center>
+<center><img src="light_switch_photos/final_render.png" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Final Render</b></figcaption>
 
 ## 3D Printing
