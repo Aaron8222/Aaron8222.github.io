@@ -6,7 +6,7 @@ description: Create a mechanical device that turns the lights on and off
 creator: Aaron Huang
 ---
 
-# Auto-Light Switch Toggler
+# Light Switch Toggler
 In this project, I created a mechanical device that would flip the light switch at the press of a button. The body of the device was made out of 3D filament and I used an [Arduino Nano 33 BLE Sense](https://store-usa.arduino.cc/products/arduino-nano-33-ble-sense) for the microcontroller. I chose this microcontroller because it has built-in bluetooth, which allows me to communicate with the device wirelessly. I wanted to make this because I wanted a way to turn the lights off when I'm in bed.
 
 ## Sketching

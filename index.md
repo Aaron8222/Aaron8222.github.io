@@ -2,7 +2,7 @@
 title: Aaron's Portfolio
 date: "2021-03-21"
 language: English
-description: Aaron's collection of projects.
+description:
 creator: Aaron Huang
 ---
 
