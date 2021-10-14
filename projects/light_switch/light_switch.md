@@ -19,30 +19,43 @@ I started by drawing some quick sketckes to give me a rough idea of how it would
 
 ## CADing
 
-After sketching, I started to make a CAD model in SolidWorks. I started by creating the servo, battery, and arduino model using a caliper.
+After sketching, I started to make a CAD model in SolidWorks. I started by creating the servo, battery, and arduino models using a caliper.
 **cad model for servo and battery**
 
 ### Mounts
 Then I made the body to connect everything together. I started by creating the holes and dimensions of an acutal light switch cover and modified it fit all the components. 
 
 **Battery Mount**
-The battery mount had two main components to the battery holder. The first is a 3D printed housing for the battery springs and the other is the clips that hold the batteries in place. 
+[//]: # (Talk about using double AA batteries at first have pictures)`
+The battery mount had two main components to the battery holder. The first is a 3D printed housing for the battery springs and the other is the clips that hold the batteries in place. By combining multiple of these items, I created a battery holder that can fit three 18650 batteries.
 
-**image of battery mount**
+<center><img src="light_switch_photos/battery_mount.png" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Battery Mount</b></figcaption>
 
 **Arduino Mount**
-The arduino monut was straightforward to cad. I began by extruding a box with the top open to store all the wires. Then I created a hole on the side to connect the servo and battery to the arduino.
+The arduino monut was straightforward to cad. I began by extruding a box with the top open to store all the wires. Then I created a hole on the side to connect the servo and battery to the arduino. The transparant part in the picture below is a representation of an Arduino Nano. In the second photo, you can see three holes for wires that connect to the servo and battery terminals.
 
-**image of arduino mount**
+<center><img src="light_switch_photos/arduino_mount2.png" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Arduino Mount with Arduino Placement</b></figcaption>
+
+<center><img src="light_switch_photos/arduino_mount.png" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Arduino Mount Showing Holes</b></figcaption>
 
 **Servo Mount**
 I created the servo mount by creating two identical towers in which screws can be attached to.
 
-**servo mount**
+<center><img src="light_switch_photos/servo_mount.png" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Servo Mount</b></figcaption>
+
+**Lever Arm**
+<center><img src="light_switch_photos/final_render.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>Final Render</b></figcaption>
 
 ## 3D Printing
+I used the 3D printer a lot for this project, especially for prototyping. 
 
-**See if have pictures**
+<center><img src="light_switch_photos/IMG_5733.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b>3D Print of Light Switch</b></figcaption>
 
 ## Coding
 
@@ -51,5 +64,9 @@ I created the servo mount by creating two identical towers in which screws can b
 **Remote**
 
 ## Finished Product
-
+<center><img src="light_switch_photos/IMG_6018.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b></b></figcaption>
+<center><img src="light_switch_photos/IMG_6017.jpg" alt="drawing" width="500"/></center>
+<figcaption align = "center"><b></b></figcaption>
+[//]: # (have youtube links)`
 ## Final Remarks
