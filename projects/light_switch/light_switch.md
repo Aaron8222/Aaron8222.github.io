@@ -24,7 +24,7 @@ After sketching, I started to make a CAD model in SolidWorks. I started by creat
 ### Mounts
 Then I made the body to connect everything together. I started by creating the holes and dimensions of an acutal light switch cover and modified it fit all the components. 
 
-**Battery Mount**
+**Battery Mount**  
 
 At first I designed the battery mount for 3 double AA batteries. However, as I was prototyping, I realized that it could only power the arduino and servo for about a day. I underestimated the amount of power bluetooth consumes. I then switched to three Samsung 18650s, which provided a higher operating voltage and current capacity.     
 
@@ -33,7 +33,7 @@ The battery mount had two main components to the battery holder. The first is a 
 <center><img src="light_switch_photos/battery_mount.PNG" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Battery Mount</b></figcaption>
 
-**Arduino Mount**
+**Arduino Mount**  
 The arduino monut was straightforward to cad. I began by extruding a box with the top open to store all the wires. Then I created a hole on the side to connect the servo and battery to the arduino. The transparant part in the picture below is a representation of an Arduino Nano. In the second photo, you can see three holes for wires that connect to the servo and battery terminals.
 
 <center><img src="light_switch_photos/arduino_mount2.PNG" alt="drawing" width="500"/></center>
@@ -42,13 +42,13 @@ The arduino monut was straightforward to cad. I began by extruding a box with th
 <center><img src="light_switch_photos/arduino_mount.PNG" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Arduino Mount Showing Holes</b></figcaption>
 
-**Servo Mount**
+**Servo Mount**  
 I created the servo mount by creating two identical towers in which some bolts can be attached to. I designed the holes just a bit smaller than the bolt size because I will be using threaded inserts for a nice finish.
 
 <center><img src="light_switch_photos/servo_mount.PNG" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Servo Mount</b></figcaption>
 
-**Lever Arm**
+**Lever Arm**  
 The lever arm connects the servo to the light switch. I started by making an extension to the light switch. I did this because it would make it easier to connect it to the servo and it would also take less force (and less energy) because there would be a greater torque the longer the lever arm is.    
 
 
@@ -67,22 +67,55 @@ I used the 3D printer a lot for this project, especially for prototyping. It was
 
 ## Coding
 
-**Audio Reactive**
-My original goal was to be able to create a smart light cover that reacts to clapping so that when it detects a clap, it would turn the lights on and off. However, for reasons that I will explain later I decided to scrape that idea. To get started, I installed the necessary libraries: [PDM](https://www.arduino.cc/en/Reference/PDM) and [Servo](https://www.arduino.cc/reference/en/libraries/servo/). PDM allows you to use the on-board microphone and the Servo library allows you to control servos motors. I used some example code (PDMSerialPlotter) provided by the PDM library as a starting point. This code essentially receives audio samples from the microphone and plots them over time. From there I created a conditional statement saying that if the noise level gets above a certain threshold, it should tell the servo to move and turn the light on or off. The only problem with using noise level to determine a clap is that any loud sound can trigger the device and creating a complex algorithim to detect if a sound is a clap in Arduino is beyond the scope of my knowledge. However, it could be a good project to work on in the future. Due to these reasons, I decided to just do a button.
+**Audio Reactive**  
+My original goal was to be able to create a smart light cover that reacts to clapping so that when it detects a clap, it would turn the lights on and off. However, for reasons that I will explain later I decided to scrape that idea. To get started, I installed the necessary libraries: [PDM](https://www.arduino.cc/en/Reference/PDM) and [Servo](https://www.arduino.cc/reference/en/libraries/servo/). PDM allows you to use the on-board microphone and the Servo library allows you to control servos motors. I used some example code (PDMSerialPlotter) provided by the PDM library as a starting point. This code essentially receives audio samples from the microphone and plots them over time. From there I created a conditional statement saying that if the noise level gets above a certain threshold, it should tell the servo to move and turn the light on or off. The only problem with using noise level to determine a clap is that any loud sound can trigger the device and creating a complex algorithim to detect if a sound is a clap in Arduino is beyond the scope of my knowledge. However, it could be a good project to work on in the future. Due to these reasons, I decided to just do a button. You can this in action in the video below!
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/ERiFV8WuMkw"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
-**Remote**
+**Remote**  
 My second best option of communicating with the Arduino is bluetooth! Again, I used the example code made by [Forward Computing and Control](http://www.forward.com.au/) that I found online. It had a good implementation of receiving and sending data through bluetooth. I wrote some additional code so that when the Arduino receives a command "on" or "off" it would move the servo to the on or off position.
 
 ## Finished Product
+Below are some videos and pictures of the final product!
 <center><img src="light_switch_photos/IMG_6018.jpg" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b></b></figcaption>
 <center><img src="light_switch_photos/IMG_6017.jpg" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b></b></figcaption>
 
-<a href="https://youtu.be/1pC7Z8tFiIY" target="_blank">1</a>
-<a href="https://youtu.be/2Zgz1dkdTes" target="_blank">2</a>
-<a href="https://youtu.be/ERiFV8WuMkw" target="_blank">3</a>
-<a href="https://youtu.be/mjP87SCtVcc" target="_blank">4</a>
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/1pC7Z8tFiIY"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/2Zgz1dkdTes"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/mjP87SCtVcc"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 ## Final Remarks
 
