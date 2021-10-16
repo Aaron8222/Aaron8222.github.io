@@ -79,8 +79,11 @@ My second best option of communicating with the Arduino is bluetooth! Again, I u
 <center><img src="light_switch_photos/IMG_6017.jpg" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b></b></figcaption>
 
-[1](https://youtu.be/1pC7Z8tFiIY)
-[2](https://youtu.be/2Zgz1dkdTes)
-[3](https://youtu.be/ERiFV8WuMkw)
-[4](https://youtu.be/mjP87SCtVcc)
+<a href="https://youtu.be/1pC7Z8tFiIY" target="_blank">1</a>
+<a href="https://youtu.be/2Zgz1dkdTes" target="_blank">2</a>
+<a href="https://youtu.be/ERiFV8WuMkw" target="_blank">3</a>
+<a href="https://youtu.be/mjP87SCtVcc" target="_blank">4</a>
+
 ## Final Remarks
+
+I loved working on this project! I really enjoyed learning and how to use bluetooth because I have many devices such as my earbuds or headphones that use bluetooth transmit sound and I always wondered how they work! Some things that can still be refined further are the battery mount and how I can communicate with the Arduino. During prototyping, I found that the battery clamps were not flexible enough, so when you try to take out the battery with force, it just snaps. I wonder if using ABS instead of PLA would solve this problem. The other thing that I can implement is communication through sound, like with a Google Home or Amazon Alexa.  

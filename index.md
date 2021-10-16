@@ -8,13 +8,14 @@ creator: Aaron Huang
 
 # Welcome
 
-Hi. I'm Aaron. A Mechanical Engineer.
+Hi. I'm Aaron. A Mechanical Engineer. Below are some of my projects!
 
 
 ## Current Projects
 
 ### [Engine Project](projects/engine_project/engine_project.md)
-
+### [Bike Project](Blank)
+### [Halogram](Blank)
 
 ## Completed Projects
 
@@ -27,4 +28,6 @@ Hi. I'm Aaron. A Mechanical Engineer.
 ### [3D Printed Boat](projects/boat/boat.md)
 
 ## About Me
-[//]: # (Life story here)`
+[//]: # (Highlights: immigrant parents + first gen, construction business+develop interest in MechE+curiousity, interests)
+
+I'm Aaron, a sophmore at Olin College of Engineering. 
