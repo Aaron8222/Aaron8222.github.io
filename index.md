@@ -20,7 +20,7 @@ Hi. I'm Aaron. A Mechanical Engineer.
 
 ### [3D Printed Utility Knife](projects/utility_knife/utility_knife.md)
 
-### [Mechanical Light Switch Toggler](projects/light_switch/light_switch.md)
+### [Smart Light Switch Cover](projects/light_switch/light_switch.md)
 
 ### [Chameleon Game](projects/chameleon/chameleon.md)
 
