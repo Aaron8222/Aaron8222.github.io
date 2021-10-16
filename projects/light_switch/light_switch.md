@@ -13,7 +13,7 @@ In this project, I created a mechanical device that would flip the light switch 
 
 I started by drawing some quick sketckes to give me a rough idea of how it would work and what it would look like. Once I got a good idea of what it looks like, I bought the necessary materials that I need to CAD, such as the arduino, servo, battery, battery springs, etc.
 
-<center><img src="IMG_7528.jpg" alt="drawing" width="500"/></center>
+<center><img src="light_switch_photos/IMG_7528.jpg" alt="drawing" width="500"/></center>
 <figcaption align = "center"><b>Light Switch Rough Sketch</b></figcaption>
 
 
