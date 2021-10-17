@@ -72,7 +72,7 @@ My original goal was to be able to create a smart light cover that reacts to cla
 <iframe
     width="640"
     height="480"
-    src="https://youtu.be/ERiFV8WuMkw"
+    src="https://www.youtube.com/embed/ERiFV8WuMkw"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -92,7 +92,7 @@ Below are some videos and pictures of the final product!
 <iframe
     width="640"
     height="480"
-    src="https://youtu.be/1pC7Z8tFiIY"
+    src="https://www.youtube.com/embed/1pC7Z8tFiIY"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -101,7 +101,7 @@ Below are some videos and pictures of the final product!
 <iframe
     width="640"
     height="480"
-    src="https://youtu.be/2Zgz1dkdTes"
+    src="https://www.youtube.com/embed/2Zgz1dkdTes"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -110,7 +110,7 @@ Below are some videos and pictures of the final product!
 <iframe
     width="640"
     height="480"
-    src="https://youtu.be/mjP87SCtVcc"
+    src="https://www.youtube.com/embed/mjP87SCtVcc"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
