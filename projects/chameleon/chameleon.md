@@ -22,7 +22,7 @@ We started by doing some research into chameleon behavior to see if there is som
 >
 </iframe>
 
-We found this mechanism very interesting and cool that we decided to make a game based on that.
+We found this mechanism so interesting and cool that we decided to make a game based on that.
 
 
 ## CADing
