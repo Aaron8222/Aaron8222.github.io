@@ -35232,6 +35232,11 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -30px auto 22px 0;
 }
 
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 
 
 
