@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 928px;
+  min-height: 901px;
 }
 
 .u-section-1 .u-text-1 {
@@ -64,8 +64,8 @@
 }
 
 .u-section-1 .u-gallery-1 {
-  height: 750px;
-  width: 861px;
+  height: 721px;
+  width: 828px;
   margin: 30px auto;
 }
 
@@ -145,8 +145,8 @@
   position: absolute;
   width: 178%;
   left: -39%;
-  height: 178%;
-  top: -39%;
+  height: 100%;
+  top: 0%;
 }
 
 .u-section-1 .u-over-slide-6 {
