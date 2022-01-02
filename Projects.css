@@ -3,18 +3,18 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 659px;
+  min-height: 709px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 60px auto 0;
+  margin: 70px auto 0;
 }
 
 .u-section-1 .u-gallery-1 {
-  width: 689px;
-  height: 437px;
-  grid-gap: 10px;
-  margin: 30px auto 60px;
+  width: 696px;
+  height: 505px;
+  grid-gap: 10px 10px;
+  margin: 30px auto 52px;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -39,6 +39,10 @@
   padding: 10px;
 }
 
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
 .u-section-1 .u-over-slide-3 {
   min-height: 100px;
   width: 689px;
@@ -55,16 +59,20 @@
 
 .u-section-1 .u-carousel-control-1 {
   position: absolute;
-  left: 10px;
+  left: 20px;
   width: 40px;
   height: 40px;
+  top: 199px;
+  right: auto;
 }
 
 .u-section-1 .u-carousel-control-2 {
   position: absolute;
-  right: 10px;
   width: 40px;
   height: 40px;
+  left: auto;
+  top: 199px;
+  right: 20px;
 }
 
 @media (max-width: 767px) {
@@ -120,14 +128,14 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 60px auto 0;
+  margin: 70px auto 0;
 }
 
 .u-section-2 .u-gallery-1 {
   width: 689px;
   height: 437px;
-  grid-gap: 10px;
-  margin: 30px auto 60px;
+  grid-gap: 10px 10px;
+  margin: 29px auto 60px;
 }
 
 .u-section-2 .u-carousel-indicators-1 {
@@ -164,16 +172,20 @@
 
 .u-section-2 .u-carousel-control-1 {
   position: absolute;
-  left: 10px;
+  left: 20px;
   width: 40px;
   height: 40px;
+  top: 179px;
+  right: auto;
 }
 
 .u-section-2 .u-carousel-control-2 {
   position: absolute;
-  right: 10px;
   width: 40px;
   height: 40px;
+  left: auto;
+  top: 179px;
+  right: 20px;
 }
 
 @media (max-width: 767px) {
@@ -274,9 +286,17 @@
   padding: 20px;
 }
 
+.u-section-3 .u-back-slide-10 {
+  background-image: none;
+}
+
 .u-section-3 .u-over-slide-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
+}
+
+.u-section-3 .u-back-image-11 {
+  object-position: 5.71% 50%;
 }
 
 .u-section-3 .u-over-slide-11 {
@@ -289,9 +309,17 @@
   padding: 20px;
 }
 
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+}
+
 .u-section-3 .u-over-slide-13 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
+}
+
+.u-section-3 .u-back-slide-14 {
+  background-image: none;
 }
 
 .u-section-3 .u-over-slide-14 {
