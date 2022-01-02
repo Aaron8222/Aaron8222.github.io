@@ -138,11 +138,21 @@
   bottom: -32px;
 }
 
+.u-section-2 .u-carousel-item-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .u-section-2 .u-over-slide-1 {
   min-height: 100px;
   width: 689px;
   height: 120px;
   padding: 10px;
+}
+
+.u-section-2 .u-carousel-item-2 {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-over-slide-2 {
