@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 843px;
+  min-height: 763px;
 }
 
 .u-section-1 .u-text-1 {
@@ -27,9 +27,9 @@
 }
 
 .u-section-1 .u-gallery-1 {
-  height: 663px;
-  width: 552px;
-  margin: 30px auto 29px;
+  height: 583px;
+  width: 485px;
+  margin: 30px auto;
 }
 
 .u-section-1 .u-carousel-item-1 {
@@ -209,10 +209,6 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-line-1 {
-    width: 540px;
-  }
-
-  .u-section-1 .u-gallery-1 {
     width: 540px;
   }
 }

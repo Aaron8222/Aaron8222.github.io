@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 950px;
+  min-height: 733px;
 }
 
 .u-section-1 .u-text-1 {
@@ -27,9 +27,9 @@
 }
 
 .u-section-1 .u-gallery-1 {
-  height: 639px;
-  width: 866px;
-  margin: 30px auto 60px;
+  height: 553px;
+  width: 750px;
+  margin: 30px auto;
 }
 
 .u-section-1 .u-carousel-item-1 {
@@ -57,8 +57,8 @@
   position: absolute;
   width: 178%;
   left: -39%;
-  height: 178%;
-  top: -39%;
+  height: 100%;
+  top: 0%;
 }
 
 .u-section-1 .u-over-slide-2 {
@@ -83,6 +83,14 @@
   margin-bottom: 0;
 }
 
+.u-section-1 .embed-responsive-2 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
 .u-section-1 .u-over-slide-4 {
   min-height: 100px;
   padding: 10px;
@@ -105,10 +113,6 @@
   margin-bottom: 0;
 }
 
-.u-section-1 .u-back-image-5 {
-  object-position: 50.21% 50%;
-}
-
 .u-section-1 .u-over-slide-6 {
   min-height: 100px;
   padding: 10px;
@@ -120,11 +124,41 @@
   margin-bottom: 0;
 }
 
+.u-section-1 .u-back-image-5 {
+  object-position: 50.21% 50%;
+}
+
+.u-section-1 .u-over-slide-7 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-item-8 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .u-section-1 .u-back-image-6 {
   object-position: 48.45% 50%;
 }
 
-.u-section-1 .u-over-slide-7 {
+.u-section-1 .u-over-slide-8 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-item-9 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-back-image-7 {
+  object-position: 29.14% 50%;
+}
+
+.u-section-1 .u-over-slide-9 {
   min-height: 100px;
   padding: 10px;
 }
@@ -139,6 +173,16 @@
 }
 
 .u-section-1 .u-carousel-thumbnail-2 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-1 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-1 .u-carousel-thumbnail-1 {
   width: 100px;
   height: 100px;
 }
@@ -189,11 +233,57 @@
     width: 940px;
   }
 
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-2 {
+    width: 74px;
+    height: 74px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 99px;
+    height: 99px;
+  }
+
   .u-section-1 .u-carousel-control-1 {
     top: 122px;
   }
 
   .u-section-1 .u-carousel-control-2 {
+    right: 129px;
     top: 122px;
   }
 }
@@ -207,9 +297,53 @@
     width: 720px;
   }
 
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
   .u-section-1 .u-carousel-thumbnail-2 {
-    width: 94px;
-    height: 94px;
+    width: 71px;
+    height: 71px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .u-section-1 .u-carousel-control-2 {
+    right: 130px;
   }
 }
 
@@ -223,8 +357,8 @@
   }
 
   .u-section-1 .u-carousel-thumbnail-2 {
-    width: 69px;
-    height: 69px;
+    width: 51px;
+    height: 51px;
   }
 }
 
@@ -243,8 +377,18 @@
   }
 
   .u-section-1 .u-carousel-thumbnail-2 {
-    width: 40px;
-    height: 40px;
+    width: 29px;
+    height: 29px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 60px;
+    height: 60px;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-1 {
+    width: 60px;
+    height: 60px;
   }
 
   .u-section-1 .u-carousel-thumbnail-1 {
