@@ -366,9 +366,25 @@
   padding: 20px;
 }
 
+.u-section-4 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
 .u-section-4 .u-over-slide-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
+}
+
+.u-section-4 .embed-responsive-2 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
 }
 
 .u-section-4 .u-over-slide-4 {
