@@ -346,15 +346,6 @@
   padding: 20px;
 }
 
-.u-section-3 .u-back-slide-14 {
-  background-image: none;
-}
-
-.u-section-3 .u-over-slide-14 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 1220px;
@@ -388,7 +379,7 @@
 
   .u-section-3 .u-gallery-1 {
     grid-template-columns: auto;
-    height: 7512px;
+    height: 6975px;
   }
 
   .u-section-3 .u-gallery-inner-1 {
@@ -402,7 +393,7 @@
   }
 
   .u-section-3 .u-gallery-1 {
-    height: 4730px;
+    height: 4392px;
   }
 } .u-section-4 {
   background-image: none;
