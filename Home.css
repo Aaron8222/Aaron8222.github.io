@@ -491,7 +491,7 @@
 }
 
 .u-section-5 .u-layout-cell-1 {
-  min-height: 348px;
+  min-height: 433px;
 }
 
 .u-section-5 .u-container-layout-1 {
@@ -499,9 +499,8 @@
 }
 
 .u-section-5 .u-form-1 {
-  width: 510px;
-  height: 371px;
-  margin: 0 -76px 0 0;
+  height: 373px;
+  margin: 0 35px 0 3px;
 }
 
 .u-section-5 .u-form-group-1 {
@@ -598,11 +597,12 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
-    min-height: 287px;
+    min-height: 357px;
   }
 
   .u-section-5 .u-form-1 {
     width: 441px;
+    margin-left: 0;
     margin-right: 0;
   }
 
